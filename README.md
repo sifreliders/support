@@ -4,4 +4,4 @@ For questions, feedback or help, please contact:
 
 📧 sifreliders@gmail.com
 
-Developer: Şifreli Ders
+Developer: Playforge Games
